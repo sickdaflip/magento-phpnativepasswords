@@ -1,5 +1,5 @@
 {
-    "name": "ericthehacker/magento-phpnativepasswords",
+    "name": "sickdaflip/magento-phpnativepasswords",
     "type": "magento-module",
     "description": "Adds support to Magento to optionally use PHP's native password hashing functionality.",
     "repositories": [
@@ -10,11 +10,5 @@
     ],
     "require": {
         "magento-hackathon/magento-composer-installer": "*"
-    },
-    "require-dev": {
-        "codeclimate/php-test-reporter": "dev-master"
-    },
-    "extra": {
-        "magento-root-dir": "root"
     }
 }
